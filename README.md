@@ -8,6 +8,76 @@ In this introduction course to Unity Game Development, we'll implement a clone o
 
 ---
 
+## Skills Learned
+
+### Git
+- Repository
+  - Create a local one
+  - Publish it to GitHub
+- Commit
+- Push 
+
+### Unity 
+- Hub
+  - Install an Editor
+  - Create a Project
+  - Open a Project
+- Editor
+  - Project View
+  - Hierarchy View
+  - Scene View
+  - Game View
+  - Inspector
+  - Meta-Files
+  - PlayMode
+  - Console
+- Engine
+  - GameObject
+  - Component
+  - Asset
+  - Scene
+  - Prefab
+- Components
+  - Transform
+    - Position
+    - Rotation
+    - Scale
+    - Parent
+  - Camera
+  - DirectionalLight
+  - Canvas
+  - RectTransform
+    - Anchor
+    - Pivot
+  - TextMeshProUGUI
+    - Text
+  - Image
+- Packages
+  - Manifest
+  - Visual Scripting
+- Build
+- Play
+  
+### Game Engine
+- Update
+  - DeltaTime
+  - Frames per Second
+- FixedUpdate
+
+### Physics
+- Collider
+  - Trigger
+  - Events
+- Rigidbody
+  - Velocity
+  - Force
+- Raycast
+
+### Maths
+- Vector3
+
+---
+
 ## Submission
 
 Submit your project to Google Classroom by adding a link to your repository and/or a link to your game on Unity Play.
@@ -18,7 +88,7 @@ Submit your project to Google Classroom by adding a link to your repository and/
 
 ### 1. Learn GitHub Basics
 
-Please follow the instructions on these [Slides](https://docs.google.com/presentation/d/1n-Z-gE7qqa1ir8QF2eeyKuZbBgPQyeh_/edit?usp=sharing&ouid=107156420442105520882&rtpof=true&sd=true)
+Please follow the instructions on these [Slides](https://docs.google.com/presentation/d/1n-Z-gE7qqa1ir8QF2eeyKuZbBgPQyeh_/edit?usp=sharing&ouid=107156420442105520882&rtpof=true&sd=true), but name your repository and Unity Project `ImpossibleGame` 
 
 ### 2. Build Ground
 
@@ -70,7 +140,7 @@ Add cubes, that the player needs to jump on. If the player crashes into the cube
 
 ### 3. Pretty, please?
 
-Make it pretty. If you can, add Effects and Sound.
+Make it your own. Add some Assets from Unity's [Asset Store](https://assetstore.unity.com). If you can, add Effects and Sound.
 
 ### 4. Release
 
