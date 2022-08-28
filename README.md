@@ -10,6 +10,9 @@ In this introduction course to Unity Game Development, we'll implement a clone o
 
 ## Skills Learned
 
+<details>
+  <summary>Click me</summary>
+  
 ### Git
 - Repository
   - Create a local one
@@ -75,6 +78,8 @@ In this introduction course to Unity Game Development, we'll implement a clone o
 
 ### Maths
 - Vector3
+  
+</details>
 
 ---
 
