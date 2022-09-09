@@ -127,21 +127,21 @@ Add a spike in the level. When the player touches the spike, show a log: "You di
 
 Allow the player to jump when pressing the SPACE-key.
 
-### 10. Counter
+### 10. Grounding
 
-Add a counter that shows, how often you've tried this level. Print the Output to the Log. 
+Make sure that the player can only jump while he is on ground. You can use `OnCollisionStay` or `RayCast` to do this.
 
 ---
 
 ## Advanced Milestone
 
-### 1. Grounding
-
-Make sure that the player can only jump while he is on ground.
-
-### 2. Crash
+### 1. Crash
 
 Add cubes, that the player needs to jump on. If the player crashes into the cube from the side, he dies. If he lands on it, he survives.
+
+### 2. Counter
+
+Add a counter that shows, how often you've tried this level. Print the Output to the Log. 
 
 ### 3. Pretty, please?
 
@@ -149,4 +149,4 @@ Make it your own. Add some Assets from Unity's [Asset Store](https://assetstore.
 
 ### 4. Release
 
-Publish your game to [Unity Play](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#601abb0cedbc2a0027bad0e3)
+Publish your game to [Unity Play (Tutorial)](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#601abb0cedbc2a0027bad0e3)
