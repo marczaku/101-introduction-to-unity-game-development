@@ -76,7 +76,7 @@ Add cubes, that the player needs to jump on. If the player crashes into the cube
 
 ### 2. Release
 
-Publish your game to [Unity Play](https://play.unity.com/en/game-exporter)
+Publish your game to [Unity Play](https://medium.com/@ricardoemiranda/how-to-host-unity-games-on-the-web-aa439b8e953b)
 
 
 ## Bonus
