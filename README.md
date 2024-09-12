@@ -74,13 +74,9 @@ Make sure that the player can only jump while he is on ground. You can use `OnCo
 
 Add cubes, that the player needs to jump on. If the player crashes into the cube from the side, he dies. If he lands on it, he survives.
 
-### 2. Pretty, please?
+### 2. Release
 
-Make it your own. Add some Assets from Unity's [Asset Store](https://assetstore.unity.com). If you can, add Effects and Sound.
-
-### 3. Release
-
-Publish your game to [Unity Play (Tutorial)](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#601abb0cedbc2a0027bad0e3)
+Publish your game to [[Unity Play (Tutorial)](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#601abb0cedbc2a0027bad0e3)](https://play.unity.com/en/game-exporter)
 
 
 ## Bonus
@@ -88,6 +84,14 @@ Publish your game to [Unity Play (Tutorial)](https://learn.unity.com/tutorial/cr
 ### 1. Counter
 
 Add a counter that shows, how often you've tried this level. Print the Output to the Log. 
+
+### 2. Pretty, please?
+
+Make it your own. Add some Assets from Unity's [Asset Store](https://assetstore.unity.com). If you can, add Effects and Sound.
+
+### 3. Jump On Click
+
+If you want to be able to play your game on your phone, you should change the input to jump on click. Taps on a phone are interpreted as clicks.
 
 
 ## Skills Learned
