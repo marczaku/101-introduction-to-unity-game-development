@@ -76,7 +76,7 @@ Add cubes, that the player needs to jump on. If the player crashes into the cube
 
 ### 2. Release
 
-Publish your game to [[Unity Play (Tutorial)](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#601abb0cedbc2a0027bad0e3)](https://play.unity.com/en/game-exporter)
+Publish your game to [Unity Play](https://play.unity.com/en/game-exporter)
 
 
 ## Bonus
