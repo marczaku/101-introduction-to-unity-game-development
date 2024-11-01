@@ -1,7 +1,5 @@
 # 101 Introduction to Unity Game Development
 
----
-
 Hi, my name is Marc and I am an enthusiastic Software Developer and Lecturer.\
 A lot of ⏱️ time and many years of iteration went into the preparation of this class material.\
 Please Leave a ⭐️ on this repository if you found this course helpful!\
